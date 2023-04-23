@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anass Gouzgar</h1>
 <h3 align="center">A passionate full stuck developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAS/programmer.gif">
-
+<img align="right" alt="coding" width="400" src="<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAS/programmer.gif">">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anassgouzgar&label=Profile%20views&color=0e75b6&style=flat" alt="anassgouzgar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anassgouzgar" target="blank"><img src="https://img.shields.io/twitter/follow/anassgouzgar?logo=twitter&style=for-the-badge" alt="anassgouzgar" /></a> </p>
