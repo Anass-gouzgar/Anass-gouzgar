@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.**
 
-- 📫 How to reach me **anassgouzgar@gmal.com**
+- 📫 How to reach me **anassgouzgar@gmail.com**
 
 - ⚡ Fun fact **I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.**
 
