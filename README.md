@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/anassgouzgar" target="blank"><img src="https://img.shields.io/twitter/follow/anassgouzgar?logo=twitter&style=for-the-badge" alt="anassgouzgar" /></a> </p>
 
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco <img src="https://media.giphy.com/media/Q6xuxUhCgCNpsbfhaP/giphy.gif" width="30">.
+
 - 🌱 I’m currently learning **As a CS student, I'm constantly learning and exploring new technologies to improve my skills.**
 
 - 💬 Ask me about **my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.**
