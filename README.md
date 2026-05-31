@@ -7,22 +7,14 @@
 
 <table align="center">
 <tr>
-<td align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Anass-gouzgar&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="160"/>
-</td>
+
 <td align="center">
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anass-gouzgar&hide_border=true&theme=tokyonight#gh-dark-mode-only" height="160"/>
 </td>
 </tr>
 
-<tr>
-<td colspan="2" align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anass-gouzgar&layout=compact&hide_border=true&theme=tokyonight#gh-dark-mode-only" height="160"/>
-</td>
-</tr>
+
 </table>
 
 
