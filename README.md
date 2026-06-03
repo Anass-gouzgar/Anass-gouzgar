@@ -3,21 +3,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<table align="center">
-<tr>
-
-<td align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anass-gouzgar&hide_border=true&theme=tokyonight#gh-dark-mode-only" height="160"/>
-</td>
-</tr>
-
-
-</table>
-
-
 ### 🚀 About Me & My Work
 
 I am a **Full Stack Developer** based in **Morocco**, passionate about building high-impact digital ecosystems that bridge the gap between talent and opportunity.
